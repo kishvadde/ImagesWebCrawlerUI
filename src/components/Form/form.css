@@ -1,0 +1,30 @@
+.form-container{
+   border-radius: 6px;
+   padding: 2%;
+   margin-right:20%;
+   margin-left:20%;
+   border: 1px ghostwhite;
+   background-color: lightgoldenrodyellow;
+   margin-bottom: 20px;
+   position: relative;
+   z-index: 1;
+
+}
+
+.inputclass{
+    padding:10px;
+    border: 1px black solid;
+    border-radius: 5px;
+    margin:5px;
+    width:70%;
+}
+
+.form-error{
+    border-radius: 2px;
+    padding: 2%;
+    color: red;
+}
+
+.form-field-error{
+    color: red;
+}
